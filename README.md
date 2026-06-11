@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;JavaScript+%7C+React+%7C+Firebase;Building+Real-World+Projects+🚀">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;JavaScript+%7C+React+%7C+Firebase;Building+Real-World+Projects">
 </p>
 
 ---
