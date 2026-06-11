@@ -68,7 +68,7 @@
 ## 🚀 Featured Projects
 
 - 🤖 **[AI Co-Founder for Startups](https://github.com/PrashantSontakke10/AI-Co-Founder-for-Startup-s-)** — Full-stack web app integrated with AI to help founders build smarter
-- 📚 **[edu_classes](https://github.com/PrashantSontakke10/edu_classes)** — Android education app for hosting classes & content
+- 📚 **[AIM Institute of Self Dev](https://github.com/PrashantSontakke10/AIMS)** — Android education app for hosting classes & content
 - 🔐 **[ESP32 Unauthorized Detector](https://github.com/PrashantSontakke10/ESP32_Unauthorized_Detector)** — IoT-based intrusion detection using ESP32
 - 🏫 **[CodeCampus](https://github.com/PrashantSontakke10/CodeCampus)** — Live coding education platform
 - 🔍 **[Code Review Tool](https://github.com/PrashantSontakke10/code-review)** — Developer utility for automated code review
