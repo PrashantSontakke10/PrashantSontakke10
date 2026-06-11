@@ -100,7 +100,7 @@
 </div>
 
 ---
-
+![snake gif](https://github.com/PrashantSontakke10/PrashantSontakke10/blob/output/snake.svg)
 ## ✨ Quote
 
 > "Code is not just logic — it's the bridge between ideas and impact. 🌍"
